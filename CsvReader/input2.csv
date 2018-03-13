@@ -1,0 +1,16 @@
+
+
+#quarry
+  brick   ,  1   
+
+door,zzz
+window,3,5
+#buildings
+1storeyhouse
+2storeyhouse,2,
+church,5,4,3,2,1
+,
+hospital,1,abc
+university,1
+
+
