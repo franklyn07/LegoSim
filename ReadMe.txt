@@ -1,1 +1,2 @@
-This Rep will contain a simulation of a lego building app. It will recieve a csv file containing the available materials, and the required buildings, and try to build the required using the given materials, making efficient use of resources
+Documentation regarding this project is found in ChessParser/Documentation
+
